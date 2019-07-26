@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package>
-<name>tuner</name>
+<name>tuneri</name>
 <version>1.0.0</version>
 <stability>stable</stability>
 <licence>GNU General Public License (GPL)</licence>
 <channel>community</channel>
 <extends/>
-<summary>tuner</summary>
-<description>tuner</description>
-<notes>tuner</notes>
+<summary>tuneri</summary>
+<description>tuneri</description>
+<notes>tuneri</notes>
 <authors>
     <author>
         <name>user</name>
         <user>user</user>
-        <email>usertuner@group.org</email>
+        <email>usertuneri@group.org</email>
     </author>
 </authors>
 <date>1970-01-01</date>
