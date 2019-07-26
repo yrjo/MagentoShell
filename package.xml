@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<package>
+<name>Tuner</name>
+<version>1.0</version>
+<stability>stable</stability>
+<licence>MIT</licence>
+<channel>community</channel>
+<extends/>
+<summary>Tuner</summary>
+<description>Tuner</description>
+<notes>Tuner</notes>
+<authors>
+    <author>
+        <name>user</name>
+        <user>user</user>
+        <email>user@group.org</email>
+    </author>
+</authors>
+<date>2015-01-01</date>
+<time>13:22:55</time>
+<contents>
+    <target name="mage">
+        <dir>
+            <dir name="tune">
+                <file name="tuner.php" hash="a55dfe2c81f9c848133c5614432988c2"/>
+            </dir>
+        </dir>
+    </target>
+</contents>
+<compatible/>
+<dependencies>
+    <required>
+        <php>
+            <min>5.2.0</min>
+            <max>6.0.0</max>
+        </php>
+    </required>
+</dependencies>
+</package>
