@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package>
-<name>tuneri2</name>
+<name>tuneri3</name>
 <version>1.0.0</version>
 <stability>stable</stability>
 <licence>GNU General Public License (GPL)</licence>
 <channel>community</channel>
 <extends/>
-<summary>tuneri</summary>
-<description>tuneri</description>
+<summary>tuneri3</summary>
+<description>tuneri3</description>
 <notes>tuneri</notes>
 <authors>
     <author>
