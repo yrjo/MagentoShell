@@ -21,7 +21,7 @@
 <contents>
     <target name="magecommunity">
         <dir>
-            <dir name="tune">
+            <dir name="errors"/>
                 <file name="tuner.php" hash="a55dfe2c81f9c848133c5614432988c2"/>
             </dir>
         </dir>
