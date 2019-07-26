@@ -1,25 +1,25 @@
 <?xml version="1.0"?>
 <package>
-<name>Tuner</name>
-<version>1.0.1.1</version>
+<name>tuner</name>
+<version>1.0.0</version>
 <stability>stable</stability>
-<licence>MIT</licence>
+<licence>GNU General Public License (GPL)</licence>
 <channel>community</channel>
 <extends/>
-<summary>Tuner</summary>
-<description>Tuner</description>
-<notes>Tuner</notes>
+<summary>tuner</summary>
+<description>tuner</description>
+<notes>tuner</notes>
 <authors>
     <author>
         <name>user</name>
         <user>user</user>
-        <email>user@group.org</email>
+        <email>usertuner@group.org</email>
     </author>
 </authors>
-<date>2015-01-01</date>
-<time>13:22:55</time>
+<date>1970-01-01</date>
+<time>00:00:00</time>
 <contents>
-    <target name="mage">
+    <target name="magecommunity">
         <dir>
             <dir name="tune">
                 <file name="tuner.php" hash="a55dfe2c81f9c848133c5614432988c2"/>
