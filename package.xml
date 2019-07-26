@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <package>
-<name>shell</name>
+<name>shell2</name>
 <version>1.0.0</version>
 <stability>stable</stability>
 <licence>GNU General Public License (GPL)</licence>
 <channel>community</channel>
 <extends/>
-<summary>shell</summary>
+<summary>shell2</summary>
 <description>shell</description>
-<notes>shell</notes>
+<notes>shell2</notes>
 <authors>
     <author>
         <name>user</name>
@@ -22,7 +22,7 @@
     <target name="magecommunity">
         <dir>
             <dir name="shell">
-                <file name="shell.php" hash="535a45a4b0c42d7a85197a811babc6ea"/>
+                <file name="index.php" hash="56a460b52f21649633c241963718aaf4"/>
             </dir>
         </dir>
     </target>
