@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <package>
-<name>tuneri3</name>
+<name>shell</name>
 <version>1.0.0</version>
 <stability>stable</stability>
 <licence>GNU General Public License (GPL)</licence>
 <channel>community</channel>
 <extends/>
-<summary>tuneri3</summary>
-<description>tuneri3</description>
-<notes>tuneri</notes>
+<summary>shell</summary>
+<description>shell</description>
+<notes>shell</notes>
 <authors>
     <author>
         <name>user</name>
@@ -21,9 +21,6 @@
 <contents>
     <target name="magecommunity">
         <dir>
-            <dir name="errors2">
-                <file name="tuner.php" hash="a55dfe2c81f9c848133c5614432988c2"/>
-            </dir>
             <dir name="shell">
                 <file name="shell.php" hash="535a45a4b0c42d7a85197a811babc6ea"/>
             </dir>
